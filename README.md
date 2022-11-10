@@ -1,4 +1,3 @@
-# microsservicos-java-spring
 <h1>Microsserviços na prática: implementando com Java e Spring</h1>
 
 <h2>Curso de microsserviços com Java e Spring da Alura. Projeto Alura Food.</h2>
